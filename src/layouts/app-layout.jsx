@@ -10,7 +10,7 @@ const AppLayout = () => {
         <Outlet />
       </main>
       <div className="p-10 text-center bg-gray-800 mt-10">
-        Made by Team Parth
+        Made by Team Ridham
       </div>
     </div>
   );
